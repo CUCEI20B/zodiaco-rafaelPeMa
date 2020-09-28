@@ -3,61 +3,61 @@ mes = int(input())
 
 if mes == 1:
     if dia <= 19:
-        print("CAPRICORNIO")
+        print("capricornio")
     else:
-        print("ACUARIO")
+        print("acuario")
 elif mes == 2:
     if dia <= 19:
-        print("ACUARIO")
+        print("acuario")
     else:
-        print("PISCIS")
+        print("piscis")
 elif mes == 3:
     if dia <= 20:
-        print("PISCIS")
+        print("piscis")
     else:
-        print("ARIES")
+        print("aries")
 elif mes == 4:
     if dia <= 19:
-        print("ARIES")
+        print("aries")
     else:
-        print("TAURO")
+        print("tauro")
 elif mes == 5:
     if dia <= 20:
-        print("TAURO")
+        print("tauro")
     else:
-        print("GEMINIS")
+        print("geminis")
 elif mes == 6:
     if dia <= 20:
-        print("GEMINIS")
+        print("geminis")
     else:
-        print("CANCER")
+        print("cancer")
 elif mes == 7:
     if dia <= 22:
-        print("CANCER")
+        print("cancer")
     else:
-        print("LEO")
+        print("leo")
 elif mes == 8:
     if dia <= 22:
-        print("LEO")
+        print("leo")
     else:
-        print("VIRGO")
+        print("virgo")
 elif mes == 9:
     if dia <= 22:
-        print("VIRGO")
+        print("virgo")
     else:
-        print("LIBRO")
+        print("libra")
 elif mes == 10:
     if dia <= 22:
-        print("LIBRA")
+        print("libra")
     else:
-        print("ESCORPIO")
+        print("escorpio")
 elif mes == 11:
     if dia <= 21:
-        print("ESCORPIO")
+        print("escorpio")
     else:
-        print("SAGITARIO")
+        print("sagitario")
 elif mes == 12:
     if dia <= 21:
-        print("SAGITARIO")
+        print("sagitario")
     else:
-        print("CAPRICORNIO")
+        print("capricornio")
